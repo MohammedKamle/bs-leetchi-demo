@@ -8,7 +8,7 @@
     "build": "TestNg Android First",
     "name": "first_test",
     "browserstack.debug": true,
-    "app": "bs://5d9bdde826e55d14a52c851bd4aa133741c608dd"
+    "app": "DemoApp"
   },
 
   "environments": [
